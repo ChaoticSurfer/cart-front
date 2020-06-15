@@ -237,6 +237,18 @@ label {
     }
 }
 
+/*added by anri stull in develop,ment*/
+@media screen and (min-width: 1000px) {
+    .shopping-cart {
+        position: absolute;
+
+        width: 80%;
+        left: 18%;
+    }
+
+}
+
+
 /* Make more adjustments for phone */
 @media screen and (max-width: 350px) {
     .product-removal {
